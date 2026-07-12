@@ -39,7 +39,7 @@ allowed_origins = [
     "http://localhost:4173",   # vite preview
     "http://localhost:3000",   # alternative dev port
     "https://sage-queijadas-260325.netlify.app", # Netlify live app
-    "https://frontend-deploy-jade.vercel.app", # Current Netlify live app
+    "https://frontend-deploy-ffdozmygn-phulariaditi3-2771s-projects.vercel.app/", # Current Netlify live app
 ]
 
 if FRONTEND_URL:
